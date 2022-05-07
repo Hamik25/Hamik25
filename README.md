@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Aim](https://aimstack.io/)
 - 💬 Ask me about software engineering
 - 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/hamikhambardzumyan/), [Twitter](https://twitter.com/hamik25)
 
